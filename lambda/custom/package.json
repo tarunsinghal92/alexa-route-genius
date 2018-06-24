@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.0",
+    "ask-sdk-model": "^1.0.0",
+    "asyncawait": "^1.0.7",
+    "cheerio": "^1.0.0-rc.2",
+    "dom-to-image": "^2.6.0",
+    "puppeteer": "^1.5.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "save-svg-as-png": "^1.4.5",
+    "webshot": "^0.18.0"
+  }
+}

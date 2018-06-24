@@ -1,0 +1,20 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.3b1ed9d3-bc2a-4559-bb05-475983625280",
+      "was_cloned": false,
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "ask-custom-route-genius-default"
+              }
+            }
+          }
+        }
+      },
+      "in_skill_products": []
+    }
+  }
+}
